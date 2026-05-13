@@ -2,7 +2,7 @@
 
 ## OPCIÓN A — Célula AI Green Power — Fase 1: Copiloto AI de Pre-Causación Financiera con Humano-en-el-Loop
 
-> **Nota del autor (Juanda):** Este brief re-encuadra el problema original ("implementar un área de AI que acompañe operaciones, finanzas y yacimientos") en un MVP de 4 semanas defendible, con roadmap multi-fase para los demás frentes. La razón es práctica: el template Hardcore AI mide entregable a 4 semanas; abarcar simultáneamente operaciones de campo + finanzas + yacimientos requiere equipo multidisciplinar y datasets que en este momento no están todos disponibles ni curados.
+> **Nota del autor (Esteban):** Este brief re-encuadra el problema original ("implementar un área de AI que acompañe operaciones, finanzas y yacimientos") en un MVP de 4 semanas defendible, con roadmap multi-fase para los demás frentes. La razón es práctica: el template Hardcore AI mide entregable a 4 semanas; abarcar simultáneamente operaciones de campo + finanzas + yacimientos requiere equipo multidisciplinar y datasets que en este momento no están todos disponibles ni curados.
 >
 > **Particularidad de la Opción A:** el sponsor técnico es el Gerente de Operaciones y los responsables del MVP son ingenieros (no contadores). El caso de uso es financiero. Esta configuración cross-funcional cuenta con el respaldo explícito del dueño de la empresa y la colaboración activa del área financiera. La tensión natural entre dominios técnico y back-office se mitiga con un **comité de validación semanal** (Operaciones + Contador titular + Revisor Fiscal + Dueño) y con la decisión de diseño de **mantener al equipo financiero como aprobador formal de cada causación generada por AI**, no como dependencia reemplazada.
 >
