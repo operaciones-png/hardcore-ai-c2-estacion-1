@@ -1,6 +1,6 @@
 # Hardcore AI Cohorte 2 — Estación 1
 
-**Autor:** Juanda — Gerente de Operaciones, Green Power S.A.S.
+**Autor:** ESTEBAN — Gerente de Operaciones, Green Power S.A.S.
 **Empresa:** Green Power S.A.S. (E&P hidrocarburos, Llanos Orientales, Colombia, ~90 empleados)
 **Plantilla utilizada:** Internal Solution Brief (caso de uso corporativo)
 **Fecha de entrega:** 13 de mayo de 2026
