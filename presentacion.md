@@ -1,6 +1,6 @@
 # Presentación Estación 1 — Green Power Célula AI Fase 1
 
-**Expositor:** Juanda — Gerente de Operaciones, Green Power S.A.S.
+**Expositor:** Esteban — Gerente de Operaciones, Green Power S.A.S.
 **Duración estimada:** 8–10 minutos
 **Formato:** guion de exposición con notas de soporte
 
